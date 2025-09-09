@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhames99&label=Profile%20views&color=0e75b6&style=flat" alt="akhames99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhames99" alt="akhames99" /></a> </p>
-
 - 🔭 I’m currently working on [Increasing My Capabilities Dealing With Flutter & Dart](https://github.com/Akhames99/Food_Delivery.Flutter)
 
 - 🌱 I’m currently learning **Flutter, Laravel and Linux**
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhames99&show_icons=true&locale=en&layout=compact" alt="akhames99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhames99&show_icons=true&locale=en" alt="akhames99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhames99&" alt="akhames99" /></p>
