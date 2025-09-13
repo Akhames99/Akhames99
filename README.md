@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhames99&label=Profile%20views&color=0e75b6&style=flat" alt="akhames99" /> </p>
 
-- 🔭 I’m currently working on [Increasing My Capabilities Dealing With Flutter & Dart](https://github.com/Akhames99/Food_Delivery.Flutter)
-
 - 🌱 I’m currently learning **Flutter, Laravel and Linux**
-
-- 📫 My Email: **akhames2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
